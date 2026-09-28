@@ -1,4 +1,4 @@
-# Mohales Deis
+# Mohales E. Deis
 
 **I build AI products, and the evals and instrumentation that show whether they actually work.**
 
